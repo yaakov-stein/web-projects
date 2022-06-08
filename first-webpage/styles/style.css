@@ -1,0 +1,41 @@
+html {
+  font-size: 1opx;
+  font-family: 'Playfair Display', serif;
+  background-color: #0b0694;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+  text-shadow: 3px 3px 5px black;
+}
+
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: 275px;
+  width: 275px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 1200px;
+  margin: 50px auto;
+  background-color: #6A6866;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
